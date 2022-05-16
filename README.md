@@ -11,3 +11,10 @@ Excellent coding and problem - solving skills with ability to work as Developer.
 
 [linkedin]: https://linkedin.com/in/stasfilin/
 [twitter]: https://twitter.com/stasfilin
+
+<br />
+
+## Stats 
+![Stanislav Filin's GitHub stats](https://github-readme-stats.vercel.app/api?username=stasfilin&theme=tokyonight&show_icons=true&count_private=true&hide=contribs)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stasfilin&layout=compact&theme=tokyonight)
