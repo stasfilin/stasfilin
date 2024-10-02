@@ -6,11 +6,5 @@ My career highlights include leading successful transitions to microservices, op
 
 I look forward to contributing to innovative projects and advancing technological progress.
 
-[<img align="left" alt="LinkedIn" width="30px" src="https://github.com/stasfilin/stasfilin/blob/main/icons/linkedin.png" />][linkedin]
-
-[linkedin]: https://linkedin.com/in/stasfilin/
-
-<br /><br />
-
 
 ![GitHub stats for Stanislav Filin](https://github-readme-stats.vercel.app/api?username=stasfilin&theme=transparent&show_icons=true&count_private=true&show=prs_merged,prs_merged_percentage)
