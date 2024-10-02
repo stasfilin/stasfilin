@@ -14,3 +14,5 @@ I look forward to contributing to innovative projects and advancing technologica
 
 
 ![GitHub stats for Stanislav Filin](https://github-readme-stats.vercel.app/api?username=stasfilin&theme=transparent&show_icons=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stasfilin&layout=donut-vertical&theme=transparent)
