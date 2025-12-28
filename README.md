@@ -5,6 +5,3 @@ A seasoned software engineer with over 9 years of experience in the Software Dev
 My career highlights include leading successful transitions to microservices, optimizing system performance, and collaborating effectively with multinational agile teams to drive innovation. I am excited to apply my technical expertise and problem-solving skills to a Senior Software Engineer or Lead Software Engineer position.
 
 I look forward to contributing to innovative projects and advancing technological progress.
-
-
-![GitHub stats for Stanislav Filin](https://github-readme-stats.vercel.app/api?username=stasfilin&theme=transparent&show_icons=true&count_private=true&show=prs_merged,prs_merged_percentage)
